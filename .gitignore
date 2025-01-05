@@ -1,0 +1,10 @@
+#Archivos temporales:
+*.log
+*.tmp
+*.exe
+
+#Directorios
+/build/
+
+#Datos sensibles
+*.env
